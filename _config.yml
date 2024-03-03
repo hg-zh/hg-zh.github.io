@@ -14,7 +14,7 @@ name                     : &name "Hang Zhou"
 description              : &description "personal description"
 url                      : https://hg-zh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hg-zh/hg-zh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "pf.jpg"
   name             : "Hang Zhou"
   pronouns         : # example: "she/her"  
-  bio              : 'Postdoctoral Researcher <br> Department of Statistics <br> UC Davis<br><a href="http://localhost:4000/files/cv.pdf">Curriculum Vitae</a>'
+  bio              : 'Postdoctoral Researcher <br> Department of Statistics <br> UC Davis<br><a href="https://hg-zh.github.io/files/cv.pdf">Curriculum Vitae</a>'
   location         : "Davis, CA, USA"
   employer         : #"Red Brick University"
   uri              : #Here is my up-to-date [CV](http://localhost:4000/files/cv.pdf).
