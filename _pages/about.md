@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher in the Department of Statistics at the University of California, Davis, working with Professors [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) and [Jane-Ling Wang](https://anson.ucdavis.edu/~wang/). I earned my Ph.D. in Statistics from Peking University in 2022, under the supervision of Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html).
 
-My research spans methodology, theory, and application in statistics. During my Ph.D. at Peking University, I focused on optimal convergence and phase transitions for discretely observed functional data, particularly those involving inverse problems. Under the supervision of Prof. Fang Yao and in collaboration with Dongyi Wei, we addressed an important unresolved issue in functional data analysis (FDA). We developed a unified theory for the optimal convergence rates and phase transitions for a diverging number of eigenfunctions, which is important for subsequent analyses involving inverse problems in FDA.
+My research spans methodology, theory and application in statistics. During my Ph.D. at Peking University, I focused on optimal convergence and phase transitions in discretely observed functional data, particularly those involving inverse problems. We developed a [unified theory](https://arxiv.org/abs/2209.08768) for the optimal convergence rates and phase transitions for a diverging number of eigenfunctions, addressing an open problem important for subsequent analyses.
 
 ## My current research interests includes:
 
