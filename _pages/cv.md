@@ -1,64 +1,24 @@
 ---
 layout: archive
-title: "CV"
+title: "Software"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## fdapace: Functional Data Analysis and Empirical Dynamics
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- Maintainer (Matlab version, July. 2022 – current) 
+- R package available at [CRAN](https://cran.r-project.org/web/packages/fdapace/index.html)
+- Up-to-date Matlab version is available for download at [Github repository](https://github.com/functionaldata/PACE_matlab)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## fdaconcur: Concurrent Regression and History Index Models for Functional Data
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Developer
+- R package available at [CRAN](https://cran.r-project.org/web/packages/fdaconcur/index.html)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## [Cleanlab](https://cleanlab.ai): Find Noisy Labels in Regression Datasets
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- The benchmarking algorithms is available at [Github repository](https://github.com/cleanlab/cleanlab)
+- A 5-minute quickstart tutorial can be founded [here](https://docs.cleanlab.ai/stable/tutorials/regression.html)
