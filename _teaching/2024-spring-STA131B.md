@@ -10,6 +10,6 @@ location: "City, Country"
 
  
 
-Coming Sooooon!
+Coming Soooooon!
 ======
 
