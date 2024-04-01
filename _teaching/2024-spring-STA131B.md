@@ -11,7 +11,7 @@ location: "City, Country"
 
 You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus.pdf).
 
-- Week 1: Introducation to statistics, Maximum liklihood estimation. [\[Lecture Note\]](https://hg-zh.github.io/files/Lect1.pdf) [\[Introduction\]](https://hg-zh.github.io/files/Lecture_1.pdf) 
+- Week 1: Introducation to statistics, Maximum liklihood estimation. [\[Introduction\]](https://hg-zh.github.io/files/Lecture_1.pdf) 
 
 
 # Logistics
