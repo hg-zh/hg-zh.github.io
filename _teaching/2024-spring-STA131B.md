@@ -36,5 +36,3 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus.
 *Midterm dates and scopes may change*
 
 
-======
-
