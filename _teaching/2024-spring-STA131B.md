@@ -13,7 +13,7 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus.
 
 You can download the notation index [\[here\]](https://hg-zh.github.io/files/notations.pdf).
 
-- Week 1: Introducation to statistics, Maximum liklihood estimation. [\[Introduction\]](https://hg-zh.github.io/files/Lecture_1.pdf) 
+- Week 1: Introducation to statistics, Maximum likelihood estimation. [\[Introduction\]](https://hg-zh.github.io/files/Lecture_1.pdf) 
 
 
 # Logistics
