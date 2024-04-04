@@ -11,7 +11,7 @@ location: "City, Country"
 
 You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus.pdf).
 
-You can download the notation index [\[here\]](https://hg-zh.github.io/files/notations.pdf).
+You can download the notation index [\[here\]](https://hg-zh.github.io/files/notataions.pdf).
 
 - Week 1: Introducation to statistics, Maximum likelihood estimation. [\[Introduction\]](https://hg-zh.github.io/files/Lecture_1.pdf) [\[Homework1\]](https://hg-zh.github.io/files/HW1.pdf) 
 
