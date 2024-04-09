@@ -22,7 +22,7 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 
 - Lectures: Mon, Wed and Fri 3:10-4:00pm at Wellman Hall 216
 - Discussions: Thu 2:10-3:00pm at Olson Hall 205
-- Office hour: Mon 4:10-5:00pm at MSB 4229 
+- Office hour: Mon&Fri 4:10-5:00pm at MSB 4229 
 
 ## TA: Jedidiah Harwood
 
