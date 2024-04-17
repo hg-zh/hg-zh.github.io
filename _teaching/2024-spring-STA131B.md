@@ -15,6 +15,7 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 
 - Week 1: Introducation to statistics, Maximum likelihood estimation. [\[Introduction\]](https://hg-zh.github.io/files/Lecture_1.pdf) [\[Homework1\]](https://hg-zh.github.io/files/HW1.pdf) [\[HW1 solution\]](https://hg-zh.github.io/files/HW1_solution.pdf)
 - Week 2: Maximum likelihood estimation, Method of moment [\[Homework2\]](https://hg-zh.github.io/files/HW2.pdf)
+- Week 3: Method of moment, Bayesian Method 
 
 
 # Logistics
@@ -32,7 +33,7 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 ## Grading: 
 
 - Weekly homeworks: 20%
-- Midterm 1: 20%. In Class (April 22). Scope: Introduction, MLE, Method of Moments, Bayesian Method.
+- Midterm 1: 20%. In Class (April 22). Scope: Introduction, MLE, Method of Moments.
 - Midterm 2: 20%. In Class (May 15). Scope: {Sufficient Statistics, Properties of Estimators.
 - FInal: 40%. Jun 10 (Mon)  3:30-5:30pm. Scope: Fisher Information and Efficient Estimation, Sampling Distribution, Confidence Intervals, Large Sample Properties of Estimators (if time permitted).
 
