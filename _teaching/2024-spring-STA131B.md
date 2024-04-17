@@ -34,7 +34,7 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 
 - Weekly homeworks: 20%
 - Midterm 1: 20%. In Class (April 22). Scope: Introduction, MLE, Method of Moments.
-- Midterm 2: 20%. In Class (May 15). Scope: {Sufficient Statistics, Properties of Estimators.
+- Midterm 2: 20%. In Class (May 15). Scope: Bayesian Method, Sufficient Statistics, Properties of Estimators.
 - FInal: 40%. Jun 10 (Mon)  3:30-5:30pm. Scope: Fisher Information and Efficient Estimation, Sampling Distribution, Confidence Intervals, Large Sample Properties of Estimators (if time permitted).
 
 *Midterm dates and scopes may change*
