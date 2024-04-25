@@ -15,7 +15,8 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 
 - Week 1: Introducation to statistics, Maximum likelihood estimation. [\[Introduction\]](https://hg-zh.github.io/files/Lecture_1.pdf) [\[Homework1\]](https://hg-zh.github.io/files/HW1.pdf) [\[HW1 solution\]](https://hg-zh.github.io/files/HW1_solution.pdf)
 - Week 2: Maximum likelihood estimation, Method of moment [\[Homework2\]](https://hg-zh.github.io/files/HW2.pdf)
-- Week 3: Method of moment, Bayesian Method 
+- Week 3: Method of moment, Bayesian Method
+- Week 4: Bayesian Method [\[Homework3\]](https://hg-zh.github.io/files/HW3.pdf)
 
 
 # Logistics
