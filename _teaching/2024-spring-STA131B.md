@@ -9,7 +9,6 @@ location: "City, Country"
 ---
 # 
 
-## Syllabus
 
 You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus.pdf).
 
