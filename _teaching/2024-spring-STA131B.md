@@ -17,6 +17,7 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 - Week 2: Maximum likelihood estimation, Method of moment [\[Homework2\]](https://hg-zh.github.io/files/HW2.pdf)
 - Week 3: Method of moment, Bayesian Method
 - Week 4: Bayesian Method [\[Homework3\]](https://hg-zh.github.io/files/HW3.pdf)
+- Week 5: Sufficient Statistics
 
 
 # Logistics
@@ -35,8 +36,8 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 
 - Weekly homeworks: 20%
 - Midterm 1: 20%. In Class (April 22). Scope: Introduction, MLE, Method of Moments.
-- Midterm 2: 20%. In Class (May 15). Scope: Bayesian Method, Sufficient Statistics, Properties of Estimators.
-- FInal: 40%. Jun 10 (Mon)  3:30-5:30pm. Scope: Fisher Information and Efficient Estimation, Sampling Distribution, Confidence Intervals, Large Sample Properties of Estimators (if time permitted).
+- Midterm 2: 20%. In Class (May 13). Scope: Bayesian Method, Sufficient Statistics, Properties of Estimators.
+- FInal: 40%. Jun 10 (Mon)  3:30-5:30pm. Scope: UMVUE, Fisher Information and Efficient Estimation, Sampling Distribution, Confidence Intervals, Large Sample Properties of Estimators (if time permitted).
 
 *Midterm dates and scopes may change*
 
