@@ -7,7 +7,9 @@ venue: "UC Davis, Statistics"
 date: 2024-04-01
 location: "City, Country"
 ---
-# Syllabus
+# 
+
+## Syllabus
 
 You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus.pdf).
 
