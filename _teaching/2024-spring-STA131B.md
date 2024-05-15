@@ -19,7 +19,7 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 - Week 3: Method of moment, Bayesian Method
 - Week 4: Bayesian Method [\[Homework3\]](https://hg-zh.github.io/files/HW3.pdf)
 - Week 5: Sufficient Statistics [\[Homework4\]](https://hg-zh.github.io/files/HW4.pdf)
-
+- Week 6: UMVUE [\[Homework5\]](https://hg-zh.github.io/files/HW5.pdf)
 
 # Logistics
 
