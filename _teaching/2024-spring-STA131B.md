@@ -21,6 +21,8 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 - Week 5: Sufficient Statistics [\[Homework4\]](https://hg-zh.github.io/files/HW4.pdf)
 - Week 6: UMVUE [\[Homework5\]](https://hg-zh.github.io/files/HW5.pdf)
 - Week 7: UMVUE, Information Inequality and C-R lower bound [\[Homework6\]](https://hg-zh.github.io/files/HW6.pdf)
+- Week 8: Sampling Distribution and Confidence Interval
+- Week 9: Review Lectures
 
 # Logistics
 
@@ -39,7 +41,7 @@ You can download the notation index [\[here\]](https://hg-zh.github.io/files/not
 - Weekly homeworks: 20%
 - Midterm 1: 20%. In Class (April 22). Scope: Introduction, MLE, Method of Moments.
 - Midterm 2: 20%. In Class (May 13). Scope: Bayesian Method, Sufficient Statistics, Properties of Estimators.
-- FInal: 40%. Jun 10 (Mon)  3:30-5:30pm. Scope: UMVUE, Fisher Information and Efficient Estimation, Sampling Distribution, Confidence Intervals, Large Sample Properties of Estimators (if time permitted).
+- FInal: 40%. Jun 10 (Mon)  3:30-5:30pm @ Wellman 216 (lecture room). Scope: UMVUE, Fisher Information and Efficient Estimation, Sampling Distribution, Confidence Intervals.
 
 *Midterm dates and scopes may change*
 
