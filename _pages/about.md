@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+
+
 I am currently a postdoctoral researcher in the Department of Statistics at the University of California, Davis, working with Professors [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) and [Jane-Ling Wang](https://anson.ucdavis.edu/~wang/). I earned my Ph.D. in Statistics from Peking University in 2022, under the supervision of Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html).
 
-My research spans methodology, theory and application in statistics. During my Ph.D. at Peking University, I focused on optimal convergence and phase transitions in discretely observed functional data, particularly those involving inverse problems. We developed a [unified theory](https://arxiv.org/abs/2209.08768) for the optimal convergence rates and phase transitions for a diverging number of eigenfunctions, addressing an open problem important for subsequent analyses.
+I am on the 2024-2025 academic job market. Feel free to download my [CV](https://hg-zh.github.io/files/CV.pdf), [research statement](https://hg-zh.github.io/files/research.pdf), and [teaching statement](https://hg-zh.github.io/files/teaching.pdf) for more detailed information.
+
+From my Ph.D. research in functional data analysis to my current work with object data and machine learning, I have consistently focused on \textbf{leveraging the intrinsic structure of data to develop statistical models and address scientific problems}. Advancements in data collection techniques have led to the emergence of complex structured data in various fields, including neuroimaging, health science, energy, transportation and information science. The technical and theoretical challenges presented by these applications have motivated me to explore and formulate generalized statistical methodologies that are compatible with the natural geometry of the data and to develop a unified theoretical framework.
 
 ## My current research interests includes:
 
@@ -18,6 +22,7 @@ My research spans methodology, theory and application in statistics. During my P
 - Functional data with complex structure, including discretely observed and non-Euclidean data
 - Learning theory, generalization bound for deep neural network
 - Model agnostic method and its applications in real-world dataset, e.g., anomalies detection
+- Dynamical systems and its applications in information retrieval
 
 ### Application areas:
 - Longitudinal/Compositional data in biological and medical sciences
