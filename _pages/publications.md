@@ -10,14 +10,14 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In major revision at Annals of Statistics*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In major revision at *Annals of Statistics*,  (2024+).
 
 
 - Deep regression for repeated measurements. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shunxing Yan, **Hang Zhou** and Fang Yao.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In major revision at Journal of American Statistical Association*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In major revision at  *Journal of American Statistical Association*,  (2024+).
 
 - Hope: A hierarchical perspective for semi-supervised 2D-3D cross-Modal retrieval. [\[journal\]](https://doi.org/10.1109/TPAMI.2024.3412760)[\[BibTeX\]](https://hg-zh.github.io/files/HOPE)
 
@@ -36,13 +36,13 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Álvaro Gajardo, Hans-Georg Müller and **Hang Zhou**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In minor revision at Electronic Journal of Statistics*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at *Electronic Journal of Statistics*,  (2024+).
 
 - Theory of functional principal component analysis for noisy and discretely observed data. [\[preprint\]](https://arxiv.org/abs/2209.08768)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_FPCA)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou**, Dongyi Wei and Fang Yao.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In revision at Annals of Statistics*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In revision at  *Annals of Statistics*,  (2024+).
 
 - Intrinsic Wasserstein Correlation Analysis. [\[journal\]](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0147_na.pdf)[\[preprint\]](https://arxiv.org/abs/2105.15000)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_WCCA)[\[code\]](https://github.com/hg-zh/WICA)
 
