@@ -64,7 +64,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *The Forty-first International Conference on Machine Learning*, (2024).
 
-- EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics. [\[arXiv\]](https://doi.org/10.48550/arXiv.2311.06554)[\[BibTeX\]](https://hg-zh.github.io/files/EGODE)
+- EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jingyang Yuan, Gongbo Sun, Zhiping Xiao, **Hang Zhou**, Xiao Luo, Junyu Luo, Yusheng Zhao, Wei Ju, Ming Zhang.
 
