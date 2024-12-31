@@ -42,7 +42,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou**, Dongyi Wei and Fang Yao.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In revision at  *Annals of Statistics*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at  *Annals of Statistics*,  (2024+).
 
 - Intrinsic Wasserstein Correlation Analysis. [\[journal\]](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0147_na.pdf)[\[preprint\]](https://arxiv.org/abs/2105.15000)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_WCCA)[\[code\]](https://github.com/hg-zh/WICA)
 
