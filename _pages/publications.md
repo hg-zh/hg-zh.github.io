@@ -12,23 +12,24 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Biometrika*, (2023).
 
-- Conformal inference for random objects. [\[preprint\]](https://arxiv.org/abs/2405.00294)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In major revision at *Annals of Statistics*,  (2024+).
 
 - Theory of functional principal component analysis for noisy and discretely observed data. [\[preprint\]](https://arxiv.org/abs/2209.08768)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_FPCA)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou**, Dongyi Wei and Fang Yao.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at  *Annals of Statistics*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at  *Annals of Statistics*,  (2025+).
+
+- Conformal inference for random objects. [\[preprint\]](https://arxiv.org/abs/2405.00294)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In major revision at *Annals of Statistics*,  (2025+).
 
 - Deep regression for repeated measurements. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shunxing Yan, **Hang Zhou** and Fang Yao.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at  *Journal of American Statistical Association*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at  *Journal of American Statistical Association*,  (2025+).
 
 - Hope: A hierarchical perspective for semi-supervised 2D-3D cross-Modal retrieval. [\[journal\]](https://doi.org/10.1109/TPAMI.2024.3412760)[\[BibTeX\]](https://hg-zh.github.io/files/HOPE)
 
@@ -40,7 +41,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou**, Zhenhua Lin and Fang Yao.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Statistica Sinica*, in press (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Statistica Sinica*, in press (2024).
 
 - Detecting Errors in Numerical Data via any Regression Model. [\[journal\]](https://openreview.net/forum?id=CIQ5iemeTw)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_DE)[\[code\]](https://github.com/hg-zh/RLE)[\[blog\]](https://web-git-jwmueller-regressionblog-cleanlab.vercel.app/blog/regression/)
 
@@ -52,7 +53,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Álvaro Gajardo, Hans-Georg Müller and **Hang Zhou**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at *Electronic Journal of Statistics*,  (2024+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at *Electronic Journal of Statistics*,  (2025+).
 
 
 
@@ -72,6 +73,13 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jingyang Yuan, Gongbo Sun, Zhiping Xiao, **Hang Zhou**, Xiao Luo, Junyu Luo, Yusheng Zhao, Wei Ju, Ming Zhang.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *The Thirty-eighth Annual Conference on Neural Information Processing Systems*, (2024).
+
+- Future Matters for Present: Towards Effective Physical Simulation over Meshes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Junyu Luo, Huiyu Jiang, **Hang Zhou**, Zhiping Xiao, Wei Ju, Carl Yang, Ming Zhang, Yizhou Sun.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACM Conference on Knowledge Discovery and Data Mining, (2024).
+
 ## Pre-Preints 
 
 - Optimal transport representations and functional principal components for distribution-valued processes.  [\[preprint\]](https://arxiv.org/abs/2310.20088)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OT)
