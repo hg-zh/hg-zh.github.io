@@ -12,6 +12,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Biometrika*, (2023).
 
+- Conformal inference for random objects. [\[preprint\]](https://arxiv.org/abs/2405.00294)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Annals of Statistics*, accepted (2025+).
 
 - Theory of functional principal component analysis for noisy and discretely observed data. [\[preprint\]](https://arxiv.org/abs/2209.08768)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_FPCA)
 
@@ -19,11 +24,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In minor revision at  *Annals of Statistics*,  (2025+).
 
-- Conformal inference for random objects. [\[preprint\]](https://arxiv.org/abs/2405.00294)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In major revision at *Annals of Statistics*,  (2025+).
 
 - Deep regression for repeated measurements. 
 
