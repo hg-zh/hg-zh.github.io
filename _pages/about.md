@@ -11,7 +11,6 @@ redirect_from:
 
 I am currently a postdoctoral researcher in the Department of Statistics at the University of California, Davis, working with Professors [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) and [Jane-Ling Wang](https://anson.ucdavis.edu/~wang/). I earned my Ph.D. in Statistics from Peking University in 2022, under the supervision of Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html).
 
-I am on the 2024-2025 academic job market. Feel free to contact me for detailed information.
 
 From my Ph.D. research in functional data analysis to my current work with object data and machine learning, I have consistently focused on *leveraging the intrinsic structure of data to develop statistical models and address scientific problems*. Advancements in data collection techniques have led to the emergence of complex structured data in various fields, including neuroimaging, health science, energy, transportation and information science. The technical and theoretical challenges presented by these applications have motivated me to explore and formulate generalized statistical methodologies that are compatible with the natural geometry of the data and to develop a unified theoretical framework.
 
