@@ -30,7 +30,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shunxing Yan, Fang Yao and **Hang Zhou**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Journal of American Statistical Association*.  [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2458344)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Journal of American Statistical Association*.  [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2458344)[\[BibTeX\]](https://hg-zh.github.io/files/drr)
 
 - Hope: A hierarchical perspective for semi-supervised 2D-3D cross-Modal retrieval. [\[journal\]](https://doi.org/10.1109/TPAMI.2024.3412760)[\[BibTeX\]](https://hg-zh.github.io/files/HOPE)
 
