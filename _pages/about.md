@@ -14,7 +14,7 @@ I am currently a postdoctoral researcher in the Department of Statistics at the 
 <span style="color:blue"><strong>I will start as an Assistant Professor in [STOR](https://stor.unc.edu) and [SDSS](https://datascience.unc.edu) at  UNC-Chapel Hill, from Jan 2026. 
 
 
-## My current research interests includes:
+## My current research interests include:
 
 ### Theory and methodology for:
 - Statistical modeling and inference for object data, including but not limited to distributions, trees, and compositional data
