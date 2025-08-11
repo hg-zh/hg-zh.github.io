@@ -12,11 +12,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Biometrika*, (2023).
 
-- Conformal inference for random objects. [\[preprint\]](https://arxiv.org/abs/2405.00294)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)
+- Conformal inference for random objects. [\[journal\]](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-3/Conformal-inference-for-random-objects/10.1214/25-AOS2495.full)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Annals of Statistics*, accepted (2025+).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Annals of Statistics*, (2025).
 
 - Theory of functional principal component analysis for noisy and discretely observed data. [\[preprint\]](https://arxiv.org/abs/2209.08768)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_FPCA)
 
