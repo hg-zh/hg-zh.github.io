@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hang Zhou @ UCD Statistics"
+title                    : "Hang Zhou @ UNC Statistics & Data Science"
 title_separator          : "-"
 name                     : &name "Hang Zhou"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "pf.jpg"
   name             : "Hang Zhou"
   pronouns         : # example: "she/her"  
-  bio              : 'Postdoctoral Researcher <br> Department of Statistics <br> UC Davis<br><a href="https://hg-zh.github.io/files/CV.pdf">Curriculum Vitae</a>'
-  location         : "Davis, CA, USA"
+  bio              : 'Assistant Professor <br> <a href="https://stor.unc.edu">STOR</a> & <a href="https://datascience.unc.edu">SDSS</a>  <br> UNC<br><a href="https://hg-zh.github.io/files/CV.pdf">Curriculum Vitae</a>'
+  location         : "Chapel-Hill, NC, USA"
   employer         : #"Red Brick University"
   uri              : #Here is my up-to-date [CV](http://localhost:4000/files/cv.pdf).
   email            : "hzh@unc.edu"
