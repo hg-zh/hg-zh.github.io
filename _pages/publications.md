@@ -58,32 +58,25 @@ author_profile: true
 
 
 
-
-
-
-
-
-
-
 ## Conference Papers
 
-- PGODE: Towards high-quality system dynamics modeling. [\[ICML\]](https://openreview.net/forum?id=jrE7geZekq)[\[BibTeX\]](https://hg-zh.github.io/files/PGODE)
+- PGODE: Towards high-quality system dynamics modeling. [\[ICML24\]](https://openreview.net/forum?id=jrE7geZekq)[\[BibTeX\]](https://hg-zh.github.io/files/PGODE)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Yiyang Gu, Huiyu Jiang, **Hang Zhou**, Jinsheng Huang, Wei Ju, Zhiping Xiao, Ming Zhang, and Yizhou Sun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *The Forty-first International Conference on Machine Learning*, (2024).
 
-- EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics. 
+- EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics. [\[NeurIPS24\]](https://openreview.net/forum?id=js5vZtyoIQ&noteId=a1yKzpeLXQ)[\[BibTeX\]](https://hg-zh.github.io/files/EGODE)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jingyang Yuan, Gongbo Sun, Zhiping Xiao, **Hang Zhou**, Xiao Luo, Junyu Luo, Yusheng Zhao, Wei Ju, Ming Zhang.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *The Thirty-eighth Annual Conference on Neural Information Processing Systems*, (2024).
 
-- Future Matters for Present: Towards Effective Physical Simulation over Meshes.
+- Future Matters for Present: Towards Effective Physical Simulation over Meshes [\[KDD25\]](https://dl.acm.org/doi/10.1145/3690624.3709340)[\[BibTeX\]](https://hg-zh.github.io/files/FMP)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Junyu Luo, Huiyu Jiang, **Hang Zhou**, Zhiping Xiao, Wei Ju, Carl Yang, Ming Zhang, Yizhou Sun.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACM Conference on Knowledge Discovery and Data Mining, (2024).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACM Conference on Knowledge Discovery and Data Mining, (2025).
 
 ## Pre-Preints 
 
