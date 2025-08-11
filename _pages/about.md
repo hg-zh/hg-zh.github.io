@@ -29,8 +29,8 @@ Before joining UNC, I was postdoctoral researcher in the Department of Statistic
 
 # Contact
 
-- Office: 4229 Mathematical Science Building, University of California, Davis, CA 95616
-- Email: hgzhou\[at\]ucdavis\[dot\]edu
+- Office: 339 Hanes Hall, Chapel Hill, NC 27599
+- Email: hzh\[at\]unc\[dot\]edu
 
 
 
