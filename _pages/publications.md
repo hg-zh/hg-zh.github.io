@@ -30,6 +30,12 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Annals of Statistics*, (2025).
 
+- Theory of functional principal component analysis for noisy and discretely observed data. [\[journal\]](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/Theory-of-functional-principal-component-analysis-for-discretely-observed-data/10.1214/25-AOS2531.short)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_FPCA)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou**, Dongyi Wei and Fang Yao.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Annals of Statistics*, (2025).
+
 - Deep regression for repeated measurements.  [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2458344)[\[BibTeX\]](https://hg-zh.github.io/files/drr)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shunxing Yan, Fang Yao and **Hang Zhou**.
@@ -41,12 +47,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Álvaro Gajardo, Hans-Georg Müller and **Hang Zhou**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Electronic Journal of Statistics*,  (2025).
-
-- Theory of functional principal component analysis for noisy and discretely observed data. [\[preprint\]](https://arxiv.org/abs/2209.08768)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_FPCA)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou**, Dongyi Wei and Fang Yao.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Annals of Statistics*,  accepted (2025+).
 
 
 
