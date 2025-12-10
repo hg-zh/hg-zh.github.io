@@ -12,7 +12,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Biometrika*, (2023).
 
-- Detecting Errors in Numerical Data via any Regression Model. [\[journal\]](https://openreview.net/forum?id=CIQ5iemeTw)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_DE)[\[code\]](https://github.com/hg-zh/RLE)[\[blog\]](https://web-git-jwmueller-regressionblog-cleanlab.vercel.app/blog/regression/)
+- Detecting Errors in Numerical Data via any Regression Model. [\[journal\]](https://openreview.net/forum?id=CIQ5iemeTw)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_DE)[\[code\]](https://github.com/hg-zh/RLE)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou**, Jonas Mueller, Mayank Kumar, Jane-Ling Wang and Jing Lei.
 
