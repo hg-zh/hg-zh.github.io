@@ -62,6 +62,10 @@ author_profile: true
 
 - CODE: Towards Partial Label Graph Learning via Coupled Dual Separation. [\[ACMMM\]](https://dl.acm.org/doi/10.1145/3746027.3755812)[\[BibTeX\]](https://hg-zh.github.io/files/CODE)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yiyang Gu, Taian Guo, **Hang Zhou**, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, Yifan Wang, Ming Zhang.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *Proceedings of the 33rd ACM International Conference on Multimedia*, (2025).
+
 - PGODE: Towards high-quality system dynamics modeling. [\[ICML24\]](https://openreview.net/forum?id=jrE7geZekq)[\[BibTeX\]](https://hg-zh.github.io/files/PGODE)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Yiyang Gu, Huiyu Jiang, **Hang Zhou**, Jinsheng Huang, Wei Ju, Zhiping Xiao, Ming Zhang, and Yizhou Sun.
