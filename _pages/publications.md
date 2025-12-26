@@ -82,7 +82,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Junyu Luo, Huiyu Jiang, **Hang Zhou**, Zhiping Xiao, Wei Ju, Carl Yang, Ming Zhang, Yizhou Sun.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACM Conference on Knowledge Discovery and Data Mining, (2025).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *ACM Conference on Knowledge Discovery and Data Mining*, (2025).
 
 ## Pre-Preints 
 
