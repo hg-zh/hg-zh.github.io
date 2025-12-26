@@ -60,6 +60,8 @@ author_profile: true
 
 ## Conference Papers
 
+- CODE: Towards Partial Label Graph Learning via Coupled Dual Separation. [\[ACMMM\]](https://dl.acm.org/doi/10.1145/3746027.3755812)[\[BibTeX\]](https://hg-zh.github.io/files/CODE)
+
 - PGODE: Towards high-quality system dynamics modeling. [\[ICML24\]](https://openreview.net/forum?id=jrE7geZekq)[\[BibTeX\]](https://hg-zh.github.io/files/PGODE)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Yiyang Gu, Huiyu Jiang, **Hang Zhou**, Jinsheng Huang, Wei Ju, Zhiping Xiao, Ming Zhang, and Yizhou Sun.
