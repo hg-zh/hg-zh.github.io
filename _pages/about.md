@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:blue"><strong>I am an Assistant Professor in [STOR](https://stor.unc.edu) and [SDSS](https://datascience.unc.edu) at UNC-Chapel Hill, from Jan 2026. Before joining UNC, I was a postdoctoral researcher in the Department of Statistics at UC Davis, working with Professors [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) and [Jane-Ling Wang](https://anson.ucdavis.edu/~wang/). I got my Ph.D. in Statistics from Peking University in 2022, under the supervision of Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html).
+I am an Assistant Professor in [STOR](https://stor.unc.edu) and [SDSS](https://datascience.unc.edu) at UNC-Chapel Hill, from Jan 2026. Before joining UNC, I was a postdoctoral researcher in the Department of Statistics at UC Davis, working with Professors [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) and [Jane-Ling Wang](https://anson.ucdavis.edu/~wang/). I got my Ph.D. in Statistics from Peking University in 2022, under the supervision of Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html).
 
 
 ## My current research interests include:
