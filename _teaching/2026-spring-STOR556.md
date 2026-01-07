@@ -38,7 +38,6 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_
 | Thursday, April 23    | Last Day of Lecture                      |
 | Monday, May 4         | Final Exam                               |
 
-**Midterm dates may change.**
 
 ## Grading: 
 
@@ -47,6 +46,6 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_
 - Midterm 2: 20%. In Class (March 12). 
 - Final: 30%. May 4 
 
-*Midterm dates may change*
+**Midterm dates may change.**
 
 
