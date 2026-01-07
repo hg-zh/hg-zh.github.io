@@ -18,11 +18,11 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_
 ## Times and locations
 
 - Lectures: Tuesday and Thursday, 11:00am - 12:15pm at Hanes Hall 120
-- Office hour: Tuesday 1:30-2:30pm at Hanes Hall 339 
+- Office hour: Tuesday 1:30 - 2:30pm at Hanes Hall 339 
 
 ## TA: Jack McPherson
 
-- TA office hour: Wednesday 12:00pm-2:00pm  at Hanes Hall 339 
+- TA office hour: Wednesday 12:00pm - 2:00pm  at Hanes Hall B30 
 
 
 ## Important Dates:
@@ -38,7 +38,7 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_
 | Thursday, April 23    | Last Day of Lecture                      |
 | Monday, May 4         | Final Exam                               |
 
-
+**Midterm dates may change.**
 
 ## Grading: 
 
@@ -47,6 +47,6 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_
 - Midterm 2: 20%. In Class (March 12). 
 - Final: 30%. May 4 
 
-*Midterm dates and scopes may change*
+*Midterm dates may change*
 
 
