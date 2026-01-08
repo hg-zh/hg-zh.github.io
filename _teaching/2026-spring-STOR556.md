@@ -1,10 +1,11 @@
 ---
 title: "STOR 556: Time Series Data Analysis"
 collection: teaching
-type: "Spring 2026"
+type: "Spring"
 permalink: /teaching/STOR556Spring2026
 venue: "UNC, STOR"
-data: 2026-01-01
+date: 2026-04-01
+location: "City, Country"
 ---
  
 
