@@ -4,6 +4,7 @@ collection: teaching
 type: "Spring 2026"
 permalink: /teaching/STOR556Spring2026
 venue: "UNC, STOR"
+data: 2026-01-01
 ---
  
 
