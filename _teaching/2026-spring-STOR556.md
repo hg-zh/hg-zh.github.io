@@ -13,7 +13,8 @@ location: "City, Country"
 You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_STOR556.pdf).
 
 
-- Week 1: Introduction to time series. Review of probability. 
+- Week 1: Introduction to time series. Review of probability.
+- Week 2: Review of Probability: Independence and Conditional Distribution/Expectation. [\[HW1\]](https://hg-zh.github.io/files/HW1_556.pdf).
 
 # Logistics
 
