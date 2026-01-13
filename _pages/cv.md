@@ -9,7 +9,7 @@ redirect_from:
 
 ## fdapace: Functional Data Analysis and Empirical Dynamics
 
-- Maintainer (Matlab version, July. 2022 – current) 
+- Maintainer (Matlab version, July 2022 – July 2025) 
 - R package available at [CRAN](https://cran.r-project.org/web/packages/fdapace/index.html)
 - Up-to-date Matlab version is available for download at [Github repository](https://github.com/functionaldata/PACE_matlab)
 

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hang Zhou @ UNC Statistics & Data Science"
+title                    : "Hang Zhou @ UNC"
 title_separator          : "-"
 name                     : &name "Hang Zhou"
 description              : &description "personal description"
