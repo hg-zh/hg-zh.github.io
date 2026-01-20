@@ -1,9 +1,9 @@
 ---
 title: "STOR 556: Time Series Data Analysis"
 collection: teaching
-type: "Spring"
+type: Spring
 permalink: /teaching/STOR556Spring2026
-venue: "UNC, STOR"
+venue: UNC, STOR
 date: 2026-04-01
 location: "City, Country"
 ---
@@ -15,6 +15,8 @@ You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_
 
 - Week 1: Introduction to time series. Review of probability.
 - Week 2: Review of Probability: Independence and Conditional Distribution/Expectation. [\[HW1\]](https://hg-zh.github.io/files/HW1_556.pdf).
+- Week 3: Zero mean time series, stationary models, ACVF and ACF [\[HW2\]](https://hg-zh.github.io/files/HW2_556.pdf).
+
 
 # Logistics
 
