@@ -13,13 +13,6 @@ location: "City, Country"
 You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_STOR556.pdf).
 
 
-- Week 1: Introduction to time series. Review of probability.
-- Week 2: Review of Probability: Independence and Conditional Distribution/Expectation. [\[HW1\]](https://hg-zh.github.io/files/HW1_556.pdf).
-- Week 3: Zero mean time series, stationary models, ACVF and ACF [\[HW2\]](https://hg-zh.github.io/files/HW2_556.pdf).
-- Week 4&5: MA(1) and AR(1) [\[HW3\]](https://hg-zh.github.io/files/HW3.pdf).
-- Week 6: Midterm 1.
-- Week 7: Sample ACVF and models with trend [\[HW4\]](https://hg-zh.github.io/files/HW4.pdf).
-
 
 # Logistics
 
