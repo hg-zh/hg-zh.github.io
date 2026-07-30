@@ -17,11 +17,9 @@ I am an Assistant Professor in [STOR](https://stor.unc.edu) and [SDSS](https://d
 - Functional data with complex structure, including discretely observed and non-Euclidean data
 - Learning theory, generalization bound for deep neural network
 - Model agnostic method and its applications in real-world dataset, e.g., anomalies detection
-- Dynamical systems and its applications in information retrieval
 
-### Application areas:
-- Longitudinal/Compositional data in biological and medical sciences
-- Brain image data (MRI, fMRI)
+
+
 
 
 
