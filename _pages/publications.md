@@ -78,7 +78,7 @@ author_profile: true
 
 - Deep neural network regression with functional covariates. [\[ICML26\]](https://openreview.net/forum?id=ZL4hmM496P)[\[BibTeX\]](https://hg-zh.github.io/files/NNF_ICML26)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Hang Zhou**,  Ju-Sheng Hong, Xiucai Ding and Jane-Ling Wang.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Ji Zhang, Xiao Luo and **Hang Zhou**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *The Forty-third International Conference on Machine Learning*, (2026).
 
