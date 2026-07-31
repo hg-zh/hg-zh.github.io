@@ -114,10 +114,3 @@ author_profile: true
 
 
 
-## Pre-Preints 
-
-- Optimal transport representations and functional principal components for distribution-valued processes.  [\[preprint\]](https://arxiv.org/abs/2310.20088)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OT)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
-
-
