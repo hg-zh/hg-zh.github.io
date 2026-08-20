@@ -24,7 +24,7 @@ author:
   avatar           : "pf.jpg"
   name             : "Hang Zhou"
   pronouns         : # example: "she/her"  
-  bio              : 'Assistant Professor <br> <a href="https://stor.unc.edu">STOR</a> & <a href="https://datascience.unc.edu">SDSS</a>  <br> The University of North Carolina at Chapel Hill'
+  bio              : 'Assistant Professor <br> <a href="https://stor.unc.edu">STOR</a> & <a href="https://sdis.unc.edu">SDIS</a>  <br> The University of North Carolina at Chapel Hill'
   location         : "Chapel-Hill, NC, USA"
   employer         : #"Red Brick University"
   uri              : #Here is my up-to-date [CV](http://localhost:4000/files/cv.pdf).
