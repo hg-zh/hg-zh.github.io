@@ -39,7 +39,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Annals of Statistics*, (2025).
 
-- Conformal inference for random objects. [\[journal\]](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-3/Conformal-inference-for-random-objects/10.1214/25-AOS2495.full)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)
+- Conformal inference for random objects. [\[journal\]](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-3/Conformal-inference-for-random-objects/10.1214/25-AOS2495.full)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OC)[\[code\]](https://github.com/hg-zh/Object-Conformal)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
 
