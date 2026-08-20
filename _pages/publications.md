@@ -6,17 +6,17 @@ author_profile: true
 ---
 ## Peer-Reviewed Journal Articles
 
-- Association and independence test for random objects. [\[pdf\]](https://www.e-publications.org/ims/submission/AOS/user/submissionFile/69992?confirm=1251b4d4)[\[code\]](https://github.com/hg-zh/IT)
+- Association and independence test for random objects. [\[journal\]](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-4/Association-and-independence-test-for-random-objects/10.1214/26-AOS2632.short)[\[BibTeX\]](https://hg-zh.github.io/files/AOS_IT)[\[code\]](https://github.com/hg-zh/IT)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Annals of Statistics*, to appear (2026).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Annals of Statistics*,  (2026).
 
-- Non-Euclidean data analysis with metric statistics. [\[journal\]](https://hdsr.mitpress.mit.edu/pub/fi0cphkz/release/1)[\[code\]](https://github.com/wookyeongSong/HDSR_Metric_Statistics)
+- Non-Euclidean data analysis with metric statistics. [\[journal\]](https://hdsr.mitpress.mit.edu/pub/fi0cphkz/release/2)[\[BibTeX\]](https://hg-zh.github.io/files/HDSR_metric)[\[code\]](https://github.com/wookyeongSong/HDSR_Metric_Statistics)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wookyeong Song, **Hang Zhou**, Yidong Zhou and Hans-Georg Müller.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Harvard Data Science Review*, to appear (2026).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Harvard Data Science Review*, (2026).
 
 
 - Intrinsic correlation analysis for Wasserstein functional data. [\[journal\]](https://www3.stat.sinica.edu.tw/statistica/J36N2/J36N206/J36N206.html)[\[pdf\]](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0147_na.pdf)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_WCCA)[\[code\]](https://github.com/hg-zh/WICA)
