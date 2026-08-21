@@ -7,8 +7,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 - Association and independence test for random objects. [\[journal\]](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-4/Association-and-independence-test-for-random-objects/10.1214/26-AOS2632.short)[\[BibTeX\]](https://hg-zh.github.io/files/AOS_IT)[\[code\]](https://github.com/hg-zh/IT)
-
-**Hang Zhou** and Hans-Georg Müller. *Annals of Statistics*, (2026).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller. *Annals of Statistics*, (2026).
 
 - Non-Euclidean data analysis with metric statistics. [\[journal\]](https://hdsr.mitpress.mit.edu/pub/fi0cphkz/release/2)[\[BibTeX\]](https://hg-zh.github.io/files/HDSR_metric)[\[code\]](https://github.com/wookyeongSong/HDSR_Metric_Statistics)
 
