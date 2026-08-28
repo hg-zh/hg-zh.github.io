@@ -38,7 +38,7 @@ author_profile: true
 
 - Deep neural network regression with functional covariates.   **Hang Zhou**,  Ju-Sheng Hong, Xiucai Ding and Jane-Ling Wang. In *The Forty-third International Conference on Machine Learning*, (2026). [\[ICML26\]](https://openreview.net/forum?id=ZL4hmM496P)[\[BibTeX\]](https://hg-zh.github.io/files/NNF_ICML26)
 
-- CB-CV: A cluster-based cross-validation benchmark for multimodal video out-of-distribution detection.  Ji Zhang, Xiao Luo and **Hang Zhou**.   In *The Forty-third International Conference on Machine Learning*, (2026). [\[ICMR26\]](https://dl.acm.org/doi/full/10.1145/3805622.3810581)[\[BibTeX\]](https://hg-zh.github.io/files/CBCV)
+- CB-CV: A cluster-based cross-validation benchmark for multimodal video out-of-distribution detection.  Ji Zhang, Xiao Luo and **Hang Zhou**.   In *Proceedings of the 2026 International Conference on Multimedia Retrieval*, (2026). [\[ICMR26\]](https://dl.acm.org/doi/full/10.1145/3805622.3810581)[\[BibTeX\]](https://hg-zh.github.io/files/CBCV)
 
 - CODE: Towards Partial Label Graph Learning via Coupled Dual Separation.  Yiyang Gu, Taian Guo, **Hang Zhou**, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, Yifan Wang, Ming Zhang. In *Proceedings of the 33rd ACM International Conference on Multimedia*, (2025). [\[ACMMM\]](https://dl.acm.org/doi/10.1145/3746027.3755812)[\[BibTeX\]](https://hg-zh.github.io/files/CODE)
 
