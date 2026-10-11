@@ -12,11 +12,11 @@ I am an Assistant Professor in [STOR](https://stor.unc.edu) and [SDIS](https://s
 
 ## My current research interests include:
 
-### Theory and methodology for:
+
 - Statistical modeling and inference for object data, including but not limited to distributions, trees, and compositional data
 - Functional data with complex structure, including discretely observed and non-Euclidean data
 - Learning theory, generalization bound for deep neural network
-- Model agnostic method and its applications in real-world dataset, e.g., anomalies detection
+- Un certainty quantification, generative model and theirs applications.
 
 
 
