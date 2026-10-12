@@ -10,7 +10,7 @@ location: "City, Country"
  
 
 
-You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/Syllabus_STOR556.pdf).
+You can download the Syllabus [\[here\]](https://hg-zh.github.io/files/teaching/stor556-spring2026/syllabus.pdf).
 
 
 

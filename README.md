@@ -14,7 +14,9 @@ Source for [Hang Zhou's homepage](https://hg-zh.github.io), built with Jekyll an
 | `_pages/cv.md` | Software page (served at `/cv/`) |
 | `_pages/teaching.html` | Teaching index; lists every file in `_teaching/` |
 | `_teaching/` | One Markdown file per course |
-| `files/` | PDFs and BibTeX snippets linked from the pages, served at `https://hg-zh.github.io/files/<name>` |
+| `files/bib/` | One BibTeX snippet per paper, named `<year>-<venue>-<topic>.html`; linked as `https://hg-zh.github.io/files/bib/<name>` (no extension needed) |
+| `files/slides/` | Talk slides, `<year>-<event>-<topic>.pdf` |
+| `files/teaching/<course>/` | Course material, one folder per course (e.g. `stor556-spring2026/syllabus.pdf`) |
 | `images/pf.jpg` | Profile photo (other files in `images/` are favicons) |
 | `_includes/`, `_layouts/`, `_sass/`, `assets/` | The theme itself; normally nothing to edit here |
 
